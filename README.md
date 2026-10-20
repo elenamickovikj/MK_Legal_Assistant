@@ -83,4 +83,4 @@ The seventh hypothetical test failed with a CUDA out-of-memory error. More GPU m
 
 Open [Macedonian_legal_LLM.ipynb](Macedonian_legal_LLM.ipynb) in Google Colab, select a GPU runtime, and mount Google Drive. Put the PDFs in the folder set by `ROOT`, with filenames matching `LAWS`. Obtain access to Gemma on Hugging Face and log in when prompted.
 
-Run the cells in order and try individual questions before the full test suite. PDFs and model weights are not included. The published notebook keeps the original code; saved outputs are stored separately in `results/`.
+Run the cells in order and try individual questions before the full test suite. PDFs and model weights are not included. The published notebook keeps the original code and saved outputs.

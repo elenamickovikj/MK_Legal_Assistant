@@ -49,7 +49,7 @@ The main test set contains 10 factual and 10 hypothetical questions. The saved r
 
 Median response time was about **105 seconds for factual questions** and **139 seconds for completed hypothetical questions**. Some calls took more than five minutes.
 
-The [full test log](results/test_run.txt) contain the recorded results. They were taken from the saved notebook run.
+The [Full test log](test_run.txt) contain the recorded results. They were taken from the saved notebook run.
 
 ## What works and what needs improvement
 
